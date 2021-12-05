@@ -1,6 +1,16 @@
-- Hi im Anna!
-- Im studying computer science at the university of York
-- I do game development in unity as a hobby aswell, including some game jams O.O
+<h1 align='center'>Anna's Github Profile</h1>
+<ul>
+  <li><b>Name:</b> Annabeth Singleton</li>
+  <li><b>Pronouns:</b> She/Her</li>
+</ul>
+
+<h2>Interests</h2>
+<ul>
+  <li>Game Making</li>
+  <li>C (although im not very good yet)</li>
+  <li>Linux</li>
+</ul>
+  
 
 <!---
 AnnabethS/AnnabethS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
