@@ -1,6 +1,6 @@
 <h1 align='center'>Anna's Github Profile</h1>
 <ul>
-  <li><b>Name:</b> Annabeth Singleton</li>
+  <li><b>Name:</b> Anna Singleton</li>
   <li><b>Pronouns:</b> She/They</li>
 </ul>
 
