@@ -5,7 +5,8 @@
 </ul>
 
 Play my games on my [itch.io](https://annabeths.itch.io) page!
-Check out my [blog](https://annabeths.github.io/)!
+
+Check out my [blog](https://annabeths.github.io/) where I write about programming / PC things ive done.
   
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnabethS&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnabethS&hide=javascript,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
