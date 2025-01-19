@@ -7,7 +7,7 @@
 
 Play my games on my [itch.io](https://anna-singleton.itch.io) page!
 
-See some projects on [my homepage](https://annabanana.xyz).
+See some projects on [my homepage](https://anna-banana.xyz).
   
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna-singleton&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-singleton&hide=javascript,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
